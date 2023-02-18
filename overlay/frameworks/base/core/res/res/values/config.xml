@@ -140,6 +140,9 @@
         <item>2</item> <!-- COLOR_MODE_SATURATED -->
     </integer-array>
 
+    <!-- Ripple animation played at the time of screen unlock-->
+    <bool name="config_enableUnlockRippleAnimation">false</bool>
+
     <!-- Whether device has screen with higher aspect ratio -->
     <bool name="config_haveHigherAspectRatioScreen">true</bool>
 
